@@ -1,7 +1,7 @@
 # Isaac Lucas
 
 - 🔭 Graduating Information Systems at [UNA](https://una.br).
-- 🌱 I’m currently foucusing on studying OOP, Java and its components.
+- 🌱 I’m currently foucusing on studying Html,Css,Javascript, Java and its components.
 
 ## Tecnologies
 
